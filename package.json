@@ -1,5 +1,5 @@
 {
-  "homepage": "https://RaoAwais996.github.io/Frontend",
+  "homepage": "https://RaoAwais996.github.io/scdfrontend",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  
+
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
